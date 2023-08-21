@@ -3,7 +3,7 @@
 For properly filling of response matrix, gen-level and reco-level hist
 Check Anal_Leptop_PROOF.C code
 
-The sequence in which I can try is
+The sequence in which you can try is
 
 Loop over all gen-level objects
   - Fill the gen-level hist for all gen-level object
